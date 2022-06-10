@@ -1,0 +1,10 @@
+.startbtn{
+    display: flex;
+    justify-content: center;
+    width:100%;
+}
+.btn{
+    width:96%;
+    display: flex;
+    justify-content: center;
+}

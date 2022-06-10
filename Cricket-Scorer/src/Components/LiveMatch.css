@@ -1,0 +1,93 @@
+.TeamsHeader{
+    margin:20px 30px;
+    padding:20px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color:rgb(64, 143, 74)
+}
+.scorecard{
+    margin:20px 30px;
+    padding:20px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+.teamname{
+    display: flex;
+    justify-content: space-between;
+    padding: 0% 1%;
+}
+.score{
+    display: flex;
+    justify-content: space-between;
+    padding:0% 1%;
+}
+.score_runs{
+    display: flex;
+    margin:1% 0%;
+}
+.scoretable{
+    margin:20px 30px;
+    padding:20px 10px;
+}
+.this_over{
+    margin:20px 30px;
+    padding:20px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius:10px;
+    display: flex;
+}
+.this_over_extras{
+    display: flex;
+    /* flex-direction: column; */
+    margin:20px 30px;
+    padding:20px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius:10px;
+}
+.wideballs{
+    /* display: flex; */
+}
+.buttons_runs_box{
+    margin:20px 30px;
+    padding:20px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.buttons{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width:30%;
+    border-radius:10px;
+}
+.runs{
+    margin-left:10px;
+    width:70%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius:10px;
+}
+.onerun{
+    border: 3px solid green;
+    border-radius: 100%;
+    width:8%;
+    display: flex;
+    justify-content: center;
+}
+.runset{
+    display: flex;
+    justify-content: space-evenly;
+    padding:20px;
+}
+.extraoptions{
+    display: flex;
+    /* flex-direction: column; */
+}
+.check{
+    border-radius: 50%;
+    border:50x solid red;
+}
+.overruns{
+    display: flex;
+    justify-content: center;
+    border:2px solid silver;
+    border-radius: 50%;
+    margin:0px 10px;
+    height:3%;
+    width:3%;
+}

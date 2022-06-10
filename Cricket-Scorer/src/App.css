@@ -1,0 +1,50 @@
+.retireMain {
+    margin: 20px 50px;
+    color: green
+}
+
+.retirradio {
+    color: black;
+}
+
+.retirInput {
+    width: 100%;
+}
+
+.headermain {
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    background-color: green;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.rightIcons {
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+    margin-right: 10px;
+}
+
+.headerteams {
+    margin: 30px;
+    color: white;
+}
+
+.iconbuttonretire {
+    color: white;
+}
+.popup{
+    background-color: silver;
+    width:100%;
+}
+.fadepopup{
+    background-color: red;
+    padding:'50px'
+}
